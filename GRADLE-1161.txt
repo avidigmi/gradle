@@ -1,0 +1,1 @@
+https://issues.gradle.org/browse/GRADLE-1161
